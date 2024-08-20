@@ -4,7 +4,7 @@ Welcome to BetterWay Automation Engineering Hackathon! Let your creativity and t
 
 This is an excellent opportunity for you to grown, learn and make a significant impact.
 
-### About Better Way
+### About BetterWay
 
 BetterWay is an outcome focussed, full2stack, chronic care platform, deeply rooted in the Ayurvedic science of holistic medicine. We own the Patient journey end to end, making it transparent and accessible for Urban users, who suffer from a chronic lifestyle disorder
 
@@ -13,16 +13,16 @@ To fulfill this promise, our gene has two intrinsic values1
 - Platformization i.e. Stitching the digitally native journey of every experience touchpoint which provides the end user transparency, standardization, and measurability.
 
 
-BetterWay is funded by 468 Capital and a fantastic set of star investors.
-Amit Chaudhary, Co-Founder, LensKart
-Kunal Shah, Founder, Cred
-Abhiraj Singh Bhal, Co-Founder, UC
-Varun Khaitan, Co-Founder, UC
-Vikram Chopra, Co-Founder, Cars24
-Gajendra Jangid, Co-Founder, Cars24
-Ruchit Agarwal, Co-Founder, Cars24
-Lovleen Bhatia, Founder, Eudureka
-Chakradhar Gade, Co-Founder, Country Delight
+BetterWay is funded by 468 Capital and a fantastic set of star investors.  
+- Amit Chaudhary, Co-Founder, LensKart  
+- Kunal Shah, Founder, Cred  
+- Abhiraj Singh Bhal, Co-Founder, UC  
+- Varun Khaitan, Co-Founder, UC  
+- Vikram Chopra, Co-Founder, Cars24  
+- Gajendra Jangid, Co-Founder, Cars24  
+- Ruchit Agarwal, Co-Founder, Cars24  
+- Lovleen Bhatia, Founder, Eudureka  
+- Chakradhar Gade, Co-Founder, Country Delight  
 
 ### What is the hackathon
 
