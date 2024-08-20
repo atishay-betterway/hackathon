@@ -36,17 +36,20 @@ Automation Framework: Choose whatever framework that you are comfortable with an
 
 ### Judges
 
-Victor Choudhary - Co-founder, BetterWay
+#### Victor Choudhary - Co-founder, BetterWay
+
 LinkedIn: https://www.linkedin.com/in/victorchoudhary1/
 
 Victor was co-fouder of Flyte. Flyte, operated in the USA consumer fintech space, was positioned as a NEO-Bank cum Investment app for teens and parents. Flyte raised over USD 5M in funding. Victor also closely worked with COO and Co-founder of Lenskart during this stint at Lenskart delivering multiple cross functional high impact projects.
 
-Chitan Patel - Head of Product & Design at LVT — LiveView Technologies, Utah, USA
+#### Chitan Patel - Head of Product & Design at LVT — LiveView Technologies, Utah, USA
+
 LinkedIn: https://www.linkedin.com/in/patelchintan/
 
 Chintan is a security, AI and SAAS expert. In past, he was head of SaaS based automated security and compliance management products at Vanta. His previous stints include successful career at SalesForce, Microsoft and Cisco.
 
-Atishay Kumar - Technology and Product advisor at BetterWay
+#### Atishay Kumar - Technology and Product advisor at BetterWay
+
 LinkedIn: https://www.linkedin.com/in/atishaykumar/
 
 Atishay has close to 2 decades of experience building successfull products. His work at Microsoft in Windows and Outlook is used by over 2B people on a daily basis. He also was founding team member, CPO and CTO of ePayLater, a leading fintech in retail lending space where his work was directly responsible for a fundraise of over USD 20M. He was also Head of Engineering of PokerBaazi, where he led the entire Poker Engineering team and also developed a new game engine to power the future growth of the company.
@@ -83,6 +86,21 @@ Who will you be working with?
 Career Path
 - Opportunity to convert into a permanent full- time role.
 - Grow with the role and assume higher level of responbilities as the organization grows.
+
+### Date and Venue
+We welcome both onsite and remote participation. It will be conducted from 9 AM to 6:00 PM on Sat, Aug 25, 2024.
+
+Onsite location: 
+BetterWay Ayurved - MG Road, DM 6, Dakshin Marg, DLF Phase 2, Sector 25, Gurugram, Sarhol, Haryana 122002
+Event will be on 3rd Floor.
+Link: https://maps.app.goo.gl/PCUA5MB2QzstEewV6
+
+- Beverages and Food is on the house.
+- Just bring your technical gadgets that you need for hackathon.
+
+### How to participate
+
+A google form submission link will be provided here shortly.
 
 ### Contact us
 
