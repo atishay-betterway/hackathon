@@ -100,7 +100,8 @@ Link: https://maps.app.goo.gl/PCUA5MB2QzstEewV6
 
 ### How to participate
 
-A google form submission link will be provided here shortly.
+Please submit your participation interest here:
+https://forms.gle/6E6yDyhDzuoGR4uE8
 
 ### Contact us
 
