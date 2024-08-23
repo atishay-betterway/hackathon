@@ -94,7 +94,7 @@ Career Path
 - Grow with the role and assume a higher level of responsibility as the organization grows.
 
 ### Date and Venue
-We welcome both onsite and remote participation. It will be conducted from 9 AM to 6:00 PM on Sat, Aug 25, 2024.
+We welcome both onsite and remote participation. It will be conducted from 9 AM to 6:00 PM on Sat, Aug 31, 2024.
 
 Onsite location: 
 BetterWay Ayurved - MG Road, DM 6, Dakshin Marg, DLF Phase 2, Sector 25, Gurugram, Sarhol, Haryana 122002
