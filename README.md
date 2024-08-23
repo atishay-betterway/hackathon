@@ -4,6 +4,12 @@ Welcome to BetterWay Automation Engineering Hackathon! Let your creativity and t
 
 This is an excellent opportunity for you to grown, learn and make a significant impact.
 
+#### Prize
+- Top 2 candidates get Full Time Internship offer with option to joining us full time (depending on performance)
+- 3rd position gets cash prize of 4K
+- 4th position gets cash prize of 3K
+- 5th position gets cash prize of 2K
+
 ### About BetterWay
 
 BetterWay is an outcome focussed, full2stack, chronic care platform, deeply rooted in the Ayurvedic science of holistic medicine. We own the Patient journey end to end, making it transparent and accessible for Urban users, who suffer from a chronic lifestyle disorder
